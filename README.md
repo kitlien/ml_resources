@@ -6,6 +6,14 @@
 ## 动物检测
 - 相关论文
 	- [2018 PNAS]Automatically identifying, counting, and describing wild animals in camera-trap images with deep learning
+	- 小样本检测：
+	- 样本扩充：
+		- 如何正确使用样本扩充改进目标检测性能:
+			- https://blog.csdn.net/liu_xiao_cheng/article/details/82705895
+			- Modeling Visual Context is Key to Augmenting Object Detection Datasets
+		- 超强少样本检测方法：
+			- https://blog.csdn.net/lichlee/article/details/104668499/
+			- Few-Shot Object Detection with Attention-RPN and Multi-Relation Detector
 	- 数据集：
 		- animalswith attributes： https://cvml.ist.ac.at/AwA2/
 		- Snapshot Serengeti Scripts
